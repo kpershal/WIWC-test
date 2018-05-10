@@ -1,0 +1,72 @@
+/* Colours
+#8AA399
+#7D84B2
+#8FA6CB
+#DBF4A7
+#D5F9DE
+*/
+body {
+  margin: 0;
+  font-family: courier new;
+  text-align: center;
+}
+
+nav {
+  /* keep the navigation fixed to the top of the page */
+  position: fixed;
+  top: 0;
+  width: 100vw;
+
+/* remaining styles */
+  background-color: #8AA399;
+  font-size: 2em;
+  display: flex;
+  justify-content: space-between;
+  letter-spacing: 0.06em;
+}
+
+.name {
+  background-color: #7D84B2;
+  padding-top: 12vh;
+  color: #8FA6CB;
+  font-size: 3em;
+  font-style: oblique;
+  letter-spacing: 0.15em;
+  height: 40vh;
+}
+
+#annecy{
+  background-color: #D5F9DE;
+
+}
+
+.rotatepics {
+  transform: rotate(90deg);
+  padding-top: 24vh;
+  padding-left: 5vw;
+
+}
+
+/* * {
+background-color: slateblue;
+text-align: center;
+text-shadow: 1px 1px 2px pink;
+}
+
+section {
+  position: relative;
+}
+
+.france {
+  position: absolute;
+  top: 27%;
+}
+
+p{
+  background-color: orange;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+} */
