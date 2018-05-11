@@ -25,6 +25,12 @@ nav {
   letter-spacing: 0.06em;
 }
 
+nav a {
+   color: #fff;
+   text-decoration: none;
+   padding: 1vh;
+ }
+
 .name {
   background-color: #7D84B2;
   padding-top: 12vh;
